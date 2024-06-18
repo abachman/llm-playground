@@ -1,0 +1,2 @@
+vite: npm --prefix little-llm-client run dev
+web: flask --app server run
